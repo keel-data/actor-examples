@@ -8,5 +8,6 @@ Python and JavaScript examples and an `examples/` directory. Keel Data built the
 | [ats-job-board-scraper](ats-job-board-scraper/) | Open jobs from any Greenhouse, Lever or Ashby board as flat JSON, with monitor mode | https://apify.com/loamy_barista/ats-job-board-scraper |
 | [remote-jobs-aggregator](remote-jobs-aggregator/) | Remote jobs from Himalayas, Remote OK, We Work Remotely, Jobicy and Arbeitnow as one de-duplicated JSON list, with monitor mode | https://apify.com/loamy_barista/remote-jobs-aggregator |
 | [url-to-markdown](url-to-markdown/) | Public web pages to clean Markdown, text or links for LLMs and RAG, with monitor mode | https://apify.com/loamy_barista/url-to-markdown |
+| [linkedin-jobs-guest-api](linkedin-jobs-guest-api/) | Public LinkedIn job postings by keyword and location as JSON, no login, with monitor mode | https://apify.com/loamy_barista/linkedin-jobs-guest-api |
 
 More folders are added one per day.
